@@ -18,7 +18,7 @@ print """\
 
                     Nmap Text output to Excel Converter !!
 
-                                         - Coded By R4m
+                                         - Coded By SuRam123
 
                                        
 """
