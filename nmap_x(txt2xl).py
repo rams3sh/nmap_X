@@ -18,8 +18,9 @@ print """\
 
                     Nmap Text output to Excel Converter !!
 
-                                         - Coded By SuRam123
+                                         - Coded By rams3sh
 
+Check out : https://github.com/rams3sh/
                                        
 """
 try:
